@@ -22,3 +22,5 @@ const algunsPilotos1 = pilotos.slice(2)//novo array
 console.log(algunsPilotos1)
 
 const algunsPilotos2 = pilotos.slice(1, 4)
+console.log(algunsPilotos2)
+
